@@ -13,7 +13,7 @@ After a moment, the transaction finishes sending and the user can view their lat
 The project was created using the Vite framework and utilizes Adobe Creative Cloud for the logo, TailwindCSS, and Ethers.
 For smart contract testing Hardhat (https://github.com/nomiclabs/hardhat) was utilized.
 
-Check it out at the following link: 
+Check it out at the following link: https://blockpay916.netlify.app/
 
 ![](demo1.png)
 
